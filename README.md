@@ -1,7 +1,7 @@
 <!-- README.md -->
 <p align="center">
-  <img src="assets/Red Moon for AJ 2025.png"
-       alt="Red Moon for AJ 2025"
+  <img src="assets/ENGINE-AJ-SPLASH.png"
+       alt="ENGINE-AJ-SPLASH.png"
        width="600" />
   <img src="https://img.shields.io/badge/Feeling-Luckiest%20IT%20Guy%20Ever-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Stealth+Mode-Enabled-black?style=for-the-badge&logo=github" />
