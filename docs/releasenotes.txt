@@ -1,0 +1,30 @@
+ENGINE-AJ-WINDOWS v2.0 DEMO – Release Notes
+Release date: 2025‑05‑17
+
+MAJOR CHANGES
+-------------
+- ❤️ DEMO LIMIT: Sends only 10 messages before shutdown
+- ⏳ EXPIRATION: App auto-disables 10 days after launch
+- 🌠 SPLASH LOVE: AJ-themed splash screen kicks in at startup
+- 🪄 ONE-FILE BUILD: Fully bundled EXE (with .ico, assets, CSVs, Node backend)
+- 💼 INNO SETUP: Installer script now includes icon and correct metadata
+
+MINOR CHANGES
+-------------
+- UI and window title updated for demo clarity
+- Internal JS preserved (Node backend still included, but inactive)
+- Spec and ISS scripts refactored for portability
+- Typing SVG + shielded badges in README because... duh.
+
+REQUIREMENTS
+------------
+- Windows 10 or later (64-bit)
+- Google Chrome installed
+- No Python installation needed
+
+---
+
+Built together. Tested together.  
+Loved into existence.
+
+→ https://github.com/richknowles/ENGINE-AJ-WINDOWS/releases

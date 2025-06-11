@@ -1,0 +1,14 @@
+# Python artifacts
+*.py
+__pycache__/
+env/
+build/
+dist/
+
+# PyInstaller artifacts
+*.spec
+*.log
+
+# OS artifacts
+*.DS_Store
+Thumbs.db
