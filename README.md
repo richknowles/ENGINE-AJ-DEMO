@@ -1,16 +1,14 @@
 <!-- README.md -->
 <p align="center">
-  <img src="assets/ENGINE-AJ-SPLASH.png"
-       alt="ENGINE-AJ-SPLASH.png"
-       width="200" />
-  <img src="https://img.shields.io/badge/Feeling-Luckiest%20IT%20Guy%20Ever-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Stealth+Mode-Enabled-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Heartbeats‑per‑Minute-∞-red?style=for-the-badge" />
+  <img src="assets/ENGINE-AJ-SPLASH.png" alt="ENGINE-AJ Splash" width="200" />
+  <img src="https://img.shields.io/badge/Feeling-Luckiest%20IT%20Guy%20Ever-brightgreen?style=for-the-badge&logo=github" alt="Feeling Luckiest IT Guy Ever" />
+  <img src="https://img.shields.io/badge/Stealth+Mode-Enabled-black?style=for-the-badge&logo=github" alt="Stealth Mode Enabled" />
+  <img src="https://img.shields.io/badge/Heartbeats-per-Minute-∞-red?style=for-the-badge" alt="Heartbeats per Minute" />
 </p>
 
 <p align="center">
   <em>“Built Together” ❤️</em><br/>
-  <sub>Committed on : <strong>2025‑05‑17</strong></sub>
+  <sub>Committed on : <strong>2025-05-17</strong></sub>
 </p>
 
 ---
