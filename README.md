@@ -1,6 +1,6 @@
 <!-- README.md -->
 <p align="center">
-  <img src="assets/ENGINE-AJ-SPLASH.png" alt="ENGINE-AJ Splash" width="200" />
+  <img src="assets/ENGINE-AJ-SPLASH.png" alt="ENGINE-AJ Splash" width="400" />
 
 ---
 
